@@ -1,0 +1,29 @@
+﻿@model  IEnumerable<Customer.Customer_TB>
+
+@{
+    ViewBag.Title = "Customer_Details";
+}
+
+<h2>Customer Details</h2>
+<table>
+    <thead>
+        <tr>
+            <th> <b> Customer Id: </b></th>
+            <th> <b> Customer Name:</b></th>
+            <th> <b> Item Purchased: </b></th>
+            <th> <b> Item Price: </b></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach(var v in Model)
+        {
+            <tr>
+                <td> @v.Id</td>
+                <td> @v.CustomerName </td>
+                <td> @v.Item_Purcahsed </td>
+                <td> @v.Item_Price </td>
+            </tr>
+        }
+    </tbody>
+</table>

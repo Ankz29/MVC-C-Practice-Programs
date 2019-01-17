@@ -1,0 +1,5 @@
+E:\Ankita\TestProject\TestProject\bin\Debug\TestProject.exe.config
+E:\Ankita\TestProject\TestProject\bin\Debug\TestProject.exe
+E:\Ankita\TestProject\TestProject\bin\Debug\TestProject.pdb
+E:\Ankita\TestProject\TestProject\obj\Debug\TestProject.exe
+E:\Ankita\TestProject\TestProject\obj\Debug\TestProject.pdb

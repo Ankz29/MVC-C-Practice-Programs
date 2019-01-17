@@ -1,0 +1,5 @@
+E:\Ankita\TestProject\Practice\bin\Debug\Practice.exe.config
+E:\Ankita\TestProject\Practice\bin\Debug\Practice.exe
+E:\Ankita\TestProject\Practice\bin\Debug\Practice.pdb
+E:\Ankita\TestProject\Practice\obj\Debug\Practice.exe
+E:\Ankita\TestProject\Practice\obj\Debug\Practice.pdb

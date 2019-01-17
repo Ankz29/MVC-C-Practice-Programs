@@ -1,0 +1,26 @@
+﻿@model MvcApplication19.Models.Request.RootObject
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<table border="1">
+    <tr>
+        <th> Jobtitle</th>
+        <th> Hiringmanager </th>
+        <th> Positioncategory </th>
+        
+        <th> Joblocation </th>
+        <th> Experience </th>
+    </tr> 
+    <tr>
+        <td> @Model.jobtitle</td>
+        <td> @Model.hiringmanager.value</td>
+        <td> @Model.positioncategory.value</td>
+        <td> @Model.joblocation.value</td>
+        <td> @Model.experienceyears</td>
+        
+    </tr>
+</table>

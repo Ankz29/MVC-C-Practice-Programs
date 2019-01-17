@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Customer_DBModelStoreContainer" CdmEntityContainer="Customer_DBEntities">
+    <EntitySetMapping Name="Customer_TB">
+      <EntityTypeMapping TypeName="Customer_DBModel.Customer_TB">
+        <MappingFragment StoreEntitySet="Customer_TB">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="CustomerName" ColumnName="CustomerName" />
+          <ScalarProperty Name="Item_Purcahsed" ColumnName="Item_Purcahsed" />
+          <ScalarProperty Name="Item_Price" ColumnName="Item_Price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,21 @@
+﻿@model List<MvcApplication21.Models.Customers>
+
+@{
+    ViewBag.Title = "Customers.cshtml";
+}
+
+<h2>Customers Information</h2>
+ 
+@foreach(var item in Model)
+{
+    <tr>
+      <th>Name:</th>  
+        <th> Age: </th>
+        <th> Email: </th>
+    </tr>
+    <tr>
+        <td> @item.Name</td>
+        <td> @item.age</td>
+        <td> @item.Email</td>
+    </tr>
+}

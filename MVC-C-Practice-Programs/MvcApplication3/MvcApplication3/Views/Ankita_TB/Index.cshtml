@@ -1,0 +1,39 @@
+﻿@model  List<MvcApplication3.Ankita_TB>
+            @using MvcApplication3.Models;  
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<h2>Employee List</h2>
+    <ul>
+        @foreach(var v in @Model)
+        { 
+        <li> @Html.ActionLink(v.Emp_Name, "Details", new { id = v.Emp_ID}) </li>
+        
+        }
+    </ul> 
+
+<table>
+    <thead>
+        <tr>
+            <td> <b> Emp Name:</b></td>
+        </tr>
+        <tr>
+           <td></td> <b> Emp ID: </b></td> 
+        </tr>
+        <tr>
+            <td> <b>Emp Gender: </b></td>
+        </tr>
+        <tr>
+            <td> <b> Emp City: </b></td>
+        </tr>
+    </thead>
+</table>
+    @foreach(var v1 in @Model)
+    {
+        
+       
+    }
+
+@Html.ActionLink("back to List", "Details")

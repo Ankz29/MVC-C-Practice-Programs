@@ -1,0 +1,6 @@
+E:\Ankita\Hash\Employee\bin\Debug\Employee.exe.config
+E:\Ankita\Hash\Employee\bin\Debug\Employee.exe
+E:\Ankita\Hash\Employee\bin\Debug\Employee.pdb
+E:\Ankita\Hash\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+E:\Ankita\Hash\Employee\obj\Debug\Employee.exe
+E:\Ankita\Hash\Employee\obj\Debug\Employee.pdb

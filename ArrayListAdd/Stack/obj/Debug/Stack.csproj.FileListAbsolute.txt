@@ -1,0 +1,6 @@
+E:\Ankita\ArrayListAdd\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+E:\Ankita\ArrayListAdd\Stack\bin\Debug\Stack.exe.config
+E:\Ankita\ArrayListAdd\Stack\bin\Debug\Stack.exe
+E:\Ankita\ArrayListAdd\Stack\bin\Debug\Stack.pdb
+E:\Ankita\ArrayListAdd\Stack\obj\Debug\Stack.exe
+E:\Ankita\ArrayListAdd\Stack\obj\Debug\Stack.pdb

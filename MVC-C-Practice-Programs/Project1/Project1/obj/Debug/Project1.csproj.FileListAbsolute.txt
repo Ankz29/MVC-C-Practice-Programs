@@ -1,0 +1,9 @@
+E:\Ankita\Project1\Project1\bin\Debug\Project1.exe.config
+E:\Ankita\Project1\Project1\bin\Debug\Project1.exe
+E:\Ankita\Project1\Project1\bin\Debug\Project1.pdb
+E:\Ankita\Project1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+E:\Ankita\Project1\Project1\obj\Debug\Project1.Form1.resources
+E:\Ankita\Project1\Project1\obj\Debug\Project1.Properties.Resources.resources
+E:\Ankita\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.Cache
+E:\Ankita\Project1\Project1\obj\Debug\Project1.exe
+E:\Ankita\Project1\Project1\obj\Debug\Project1.pdb

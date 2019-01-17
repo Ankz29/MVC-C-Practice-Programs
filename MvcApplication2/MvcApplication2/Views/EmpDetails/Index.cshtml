@@ -1,0 +1,30 @@
+﻿@model IEnumerable<MvcApplication2.Emp_TB>
+
+@{
+    ViewBag.Title =" Employees Details";
+}
+
+<h2>Employees Details</h2>
+<table>
+    <thead>
+        <tr>
+            <th>EmpName:</th>
+            <th>EmpId:</th>
+            <th>Gender:</th>
+        </tr>
+
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.EmpName</td>
+                <td>@item.EmpId</td>
+                <td>@item.Gender</td>
+            </tr>
+        }
+
+    </tbody>
+
+</table>

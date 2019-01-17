@@ -1,0 +1,6 @@
+E:\Ankita\ListCollection\ListCollection\bin\Debug\ListCollection.exe.config
+E:\Ankita\ListCollection\ListCollection\bin\Debug\ListCollection.exe
+E:\Ankita\ListCollection\ListCollection\bin\Debug\ListCollection.pdb
+E:\Ankita\ListCollection\ListCollection\obj\Debug\ListCollection.csprojResolveAssemblyReference.cache
+E:\Ankita\ListCollection\ListCollection\obj\Debug\ListCollection.exe
+E:\Ankita\ListCollection\ListCollection\obj\Debug\ListCollection.pdb

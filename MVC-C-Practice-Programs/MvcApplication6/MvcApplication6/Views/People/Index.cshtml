@@ -1,0 +1,57 @@
+﻿@model MvcApplication6.Models.People
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+
+<html>
+<body >
+    <h2> Registration Form </h2>
+
+    @using (Html.BeginForm("Index", "People", FormMethod.Post))
+    {
+        <table>
+            <tr>
+                <td><div class="editor-label">
+             @Html.LabelFor(model => model.Name)
+            </div></td>
+           <td> <div class="editor-field">
+                 @Html.EditorFor(model => model.Name)
+                 @Html.ValidationMessageFor(model => model.Name)
+            </div></td> 
+            
+            </tr>
+           
+                <tr>
+                    <td> Person Email ID: </td>
+                    <td> @Html.TextBoxFor(m => m.Email)</td>
+                </tr>
+
+                <tr>
+                    <td> Person Gender: </td>
+                    <td>
+                        @Html.DropDownListFor(m => m.Gender, new List<SelectListItem>
+                   { new SelectListItem{Text="Male", Value="M"},
+                     new SelectListItem{Text="Female", Value="F"}}, "Please select")
+                    </td>
+                </tr>
+            <tr>
+                <td> Physcically abled : </td>
+                <td> @Html.RadioButtonFor(m => m.Physically_abled, "yes")</td> 
+                <td> @Html.RadioButtonFor(m => m.Physically_abled, "yes")</td> 
+            </tr> 
+                <tr>
+                    <td> Person Contact: </td>
+                    <td> @Html.TextBoxFor(m => m.Contact) </td>
+                </tr>
+                <tr>
+                    <td><center><input type="submit" value="submit" /></center> </td>
+                </tr>
+           
+        </table>
+    }
+
+</body>
+</html>

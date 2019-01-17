@@ -1,0 +1,6 @@
+E:\Ankita\TestProject\PassRef\bin\Release\PassRef.exe.config
+E:\Ankita\TestProject\PassRef\bin\Release\PassRef.exe
+E:\Ankita\TestProject\PassRef\bin\Release\PassRef.pdb
+E:\Ankita\TestProject\PassRef\obj\Release\PassRef.exe
+E:\Ankita\TestProject\PassRef\obj\Release\PassRef.pdb
+E:\Ankita\TestProject\PassRef\obj\Release\PassRef.csprojResolveAssemblyReference.cache

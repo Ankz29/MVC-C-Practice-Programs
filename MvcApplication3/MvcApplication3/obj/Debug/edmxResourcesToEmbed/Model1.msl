@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Ankita_DBModelStoreContainer" CdmEntityContainer="Ankita_DBEntities">
+    <EntitySetMapping Name="Ankita_TB">
+      <EntityTypeMapping TypeName="Ankita_DBModel.Ankita_TB">
+        <MappingFragment StoreEntitySet="Ankita_TB">
+          <ScalarProperty Name="Emp_ID" ColumnName="Emp_ID" />
+          <ScalarProperty Name="Emp_Name" ColumnName="Emp_Name" />
+          <ScalarProperty Name="Emp_Gender" ColumnName="Emp_Gender" />
+          <ScalarProperty Name="Emp_City" ColumnName="Emp_City" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

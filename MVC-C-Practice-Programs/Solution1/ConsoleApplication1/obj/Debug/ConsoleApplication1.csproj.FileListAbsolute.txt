@@ -1,0 +1,5 @@
+E:\Ankita\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Ankita\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Ankita\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Ankita\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Ankita\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

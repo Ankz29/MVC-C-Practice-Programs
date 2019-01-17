@@ -1,0 +1,25 @@
+﻿@model Employee.Models.Emp
+
+@{
+    ViewBag.Title = "Employee Details";
+}
+
+<h2>Employee Details</h2>
+<table>
+    <tr>
+        <td><b>Employee Id:</b> </td> 
+        <td> @Model.empId </td> 
+    </tr>
+    <tr>
+        <td><b>Employee Name: </b></td>
+        <td> @Model.empName </td>
+    </tr>
+    <tr>
+        <td><b>Employee Gender: </b></td>
+        <td> @Model.Gender </td>
+    <tr>
+        <td><b>Employee Salary:</b> </td>
+        <td> @Model.salary </td>
+    </tr>
+    
+</table>

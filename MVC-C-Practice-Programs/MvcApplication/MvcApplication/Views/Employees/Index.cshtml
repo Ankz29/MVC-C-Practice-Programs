@@ -1,0 +1,29 @@
+﻿@model List<MvcApplication.Models.Employees_TB>
+
+@{
+    ViewBag.Title = "Employees Details";
+}
+
+<h2>Index</h2>
+<table>
+    <thead>
+        <tr>
+            <th> <b> Employee_Name:<br /></b></th>
+            <th> <b> Employee_Id:<br /></b></th>
+            <th> <b> Employee_Salary:<br /></b></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var v in Model)
+        {
+            <tr>
+                <td> @v.Emp_Name<br /></td>
+                <td> @v.Emp_Id<br /></td>
+                <td> @v.Emp_salary<br /> </td>
+            </tr>
+        }
+
+    </tbody>
+
+</table>

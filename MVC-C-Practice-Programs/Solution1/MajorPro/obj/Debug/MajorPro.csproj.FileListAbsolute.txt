@@ -1,0 +1,6 @@
+E:\Ankita\Solution1\MajorPro\bin\Debug\MajorPro.exe.config
+E:\Ankita\Solution1\MajorPro\bin\Debug\MajorPro.exe
+E:\Ankita\Solution1\MajorPro\bin\Debug\MajorPro.pdb
+E:\Ankita\Solution1\MajorPro\obj\Debug\MajorPro.exe
+E:\Ankita\Solution1\MajorPro\obj\Debug\MajorPro.pdb
+E:\Ankita\Solution1\MajorPro\obj\Debug\MajorPro.csprojResolveAssemblyReference.cache

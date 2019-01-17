@@ -1,0 +1,33 @@
+﻿@model MvcApplication13.Models.EmailSend
+
+
+ <h1>HELLO</h1>
+@{
+    ViewBag.Title = "Index";
+}
+<html>
+    <h2><font color="red">Please fill deatils</font> </h2>
+<body>
+    @using (Html.BeginForm("Index", "EmailSend", FormMethod.Post))
+    {
+        <table border="1">
+            <tr>
+                <td> Name: </td>
+                <td> @Html.TextBoxFor(m => m.Name)</td>
+            </tr>
+
+            <tr>
+                <td> Phone No:</td>
+                <td> @Html.TextBoxFor(m => m.Phone_No)</td>
+            </tr>
+
+            <tr>
+                <td> Email Id</td>
+                <td> @Html.TextBoxFor(m => m.Email)</td>
+            </tr>
+        </table>
+         <input type="submit" name="submit" />
+    }
+   
+</body>
+</html>

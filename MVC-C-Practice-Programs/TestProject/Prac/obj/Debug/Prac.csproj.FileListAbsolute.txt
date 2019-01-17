@@ -1,0 +1,6 @@
+E:\Ankita\TestProject\Prac\obj\Debug\Prac.csprojResolveAssemblyReference.cache
+E:\Ankita\TestProject\Prac\bin\Debug\Prac.exe.config
+E:\Ankita\TestProject\Prac\bin\Debug\Prac.exe
+E:\Ankita\TestProject\Prac\bin\Debug\Prac.pdb
+E:\Ankita\TestProject\Prac\obj\Debug\Prac.exe
+E:\Ankita\TestProject\Prac\obj\Debug\Prac.pdb

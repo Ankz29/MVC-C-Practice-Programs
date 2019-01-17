@@ -1,0 +1,5 @@
+E:\Ankita\Enums\Enums\bin\Debug\Enums.exe.config
+E:\Ankita\Enums\Enums\bin\Debug\Enums.exe
+E:\Ankita\Enums\Enums\bin\Debug\Enums.pdb
+E:\Ankita\Enums\Enums\obj\Debug\Enums.exe
+E:\Ankita\Enums\Enums\obj\Debug\Enums.pdb

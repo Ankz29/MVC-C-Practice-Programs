@@ -1,0 +1,2 @@
+E:\Ankita\TestProject\PassRef\obj\Debug\PassRef.csprojResolveAssemblyReference.cache
+E:\Ankita\TestProject\PassRef\bin\Debug\PassRef.exe.config

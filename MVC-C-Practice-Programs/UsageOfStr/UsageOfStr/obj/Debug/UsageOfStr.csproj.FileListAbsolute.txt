@@ -1,0 +1,6 @@
+E:\Ankita\UsageOfStr\UsageOfStr\bin\Debug\UsageOfStr.exe.config
+E:\Ankita\UsageOfStr\UsageOfStr\bin\Debug\UsageOfStr.exe
+E:\Ankita\UsageOfStr\UsageOfStr\bin\Debug\UsageOfStr.pdb
+E:\Ankita\UsageOfStr\UsageOfStr\obj\Debug\UsageOfStr.csprojResolveAssemblyReference.cache
+E:\Ankita\UsageOfStr\UsageOfStr\obj\Debug\UsageOfStr.exe
+E:\Ankita\UsageOfStr\UsageOfStr\obj\Debug\UsageOfStr.pdb

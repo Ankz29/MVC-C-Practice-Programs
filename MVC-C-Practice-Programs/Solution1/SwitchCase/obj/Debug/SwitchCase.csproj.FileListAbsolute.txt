@@ -1,0 +1,6 @@
+E:\Ankita\Solution1\SwitchCase\bin\Debug\SwitchCase.exe.config
+E:\Ankita\Solution1\SwitchCase\bin\Debug\SwitchCase.exe
+E:\Ankita\Solution1\SwitchCase\bin\Debug\SwitchCase.pdb
+E:\Ankita\Solution1\SwitchCase\obj\Debug\SwitchCase.csprojResolveAssemblyReference.cache
+E:\Ankita\Solution1\SwitchCase\obj\Debug\SwitchCase.exe
+E:\Ankita\Solution1\SwitchCase\obj\Debug\SwitchCase.pdb

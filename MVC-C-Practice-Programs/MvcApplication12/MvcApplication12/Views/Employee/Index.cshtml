@@ -1,0 +1,21 @@
+﻿@model MvcApplication12.Models.Employee
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Kindly fill in your details to prceed further</h2>
+<table>
+    <tr>
+        <td> @Html.TextBoxFor(m => m.UserName)</td>
+       <td> @Model.UserName </td>
+    </tr>
+    <tr>
+        <td> @Html.TextBoxFor(m=>m.Password)</td>
+        <td> @Model.Password: </td>
+    </tr>
+    
+       
+    
+</table>
+<input type="submit" name="submit" /> 

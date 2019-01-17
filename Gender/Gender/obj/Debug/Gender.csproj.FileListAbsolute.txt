@@ -1,0 +1,6 @@
+E:\Ankita\Gender\Gender\bin\Debug\Gender.exe.config
+E:\Ankita\Gender\Gender\bin\Debug\Gender.exe
+E:\Ankita\Gender\Gender\bin\Debug\Gender.pdb
+E:\Ankita\Gender\Gender\obj\Debug\Gender.csprojResolveAssemblyReference.cache
+E:\Ankita\Gender\Gender\obj\Debug\Gender.exe
+E:\Ankita\Gender\Gender\obj\Debug\Gender.pdb

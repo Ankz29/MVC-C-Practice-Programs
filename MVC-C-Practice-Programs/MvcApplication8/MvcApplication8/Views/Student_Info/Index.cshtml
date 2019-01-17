@@ -1,0 +1,39 @@
+﻿@model  List<MvcApplication8.Student_form_TB> 
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+
+<html>
+<body>
+    <table>
+        <tr>
+            <td> Name</td>
+            <td> Surname</td>
+            <td> Contact_no</td>
+            <td> Gender</td>
+            <td> Email</td>
+            <td> Percentage </td>
+            
+        </tr>
+        @foreach (var v in Model)
+        {
+            <tr style="border:1px solid black">
+              <td> @v.Name </td>
+             <td> @v.Surname </td>
+            <td> <a href="~/Student_Details/Index?Contact_no=@v.Contact_no"> @v.Contact_no  </a> </td>
+                <td> @v.Gender</td>
+            <td> @v.Email</td>
+            <td> @v.Percentage</td>
+            
+        </tr>
+
+         
+        }
+    </table>
+
+</body>
+
+</html>

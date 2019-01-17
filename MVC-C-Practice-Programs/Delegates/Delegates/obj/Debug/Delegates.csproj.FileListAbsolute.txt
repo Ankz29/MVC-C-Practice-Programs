@@ -1,0 +1,6 @@
+E:\Ankita\Delegates\Delegates\bin\Debug\Delegates.exe.config
+E:\Ankita\Delegates\Delegates\bin\Debug\Delegates.exe
+E:\Ankita\Delegates\Delegates\bin\Debug\Delegates.pdb
+E:\Ankita\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+E:\Ankita\Delegates\Delegates\obj\Debug\Delegates.exe
+E:\Ankita\Delegates\Delegates\obj\Debug\Delegates.pdb

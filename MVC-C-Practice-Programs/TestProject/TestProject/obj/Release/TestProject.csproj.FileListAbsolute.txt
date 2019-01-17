@@ -1,0 +1,6 @@
+E:\Ankita\TestProject\TestProject\bin\Release\TestProject.exe.config
+E:\Ankita\TestProject\TestProject\bin\Release\TestProject.exe
+E:\Ankita\TestProject\TestProject\bin\Release\TestProject.pdb
+E:\Ankita\TestProject\TestProject\obj\Release\TestProject.csprojResolveAssemblyReference.cache
+E:\Ankita\TestProject\TestProject\obj\Release\TestProject.exe
+E:\Ankita\TestProject\TestProject\obj\Release\TestProject.pdb

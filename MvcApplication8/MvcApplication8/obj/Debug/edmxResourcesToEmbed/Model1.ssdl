@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Student_form_DBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Student_form_DB.dbo.Student_form_TB' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Student_form_TB">
+    <Key>
+      <PropertyRef Name="Name" />
+    </Key>
+    <Property Name="Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Surname" Type="varchar" MaxLength="50" />
+    <Property Name="Gender" Type="varchar" MaxLength="50" />
+    <Property Name="Contact_no" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="varchar" MaxLength="50" />
+    <Property Name="Percentage" Type="decimal" Precision="5" Scale="3" />
+  </EntityType>
+  <EntityContainer Name="Student_form_DBModelStoreContainer">
+    <EntitySet Name="Student_form_TB" EntityType="Self.Student_form_TB" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Student_form_TB].[Name] AS [Name], 
+    [Student_form_TB].[Surname] AS [Surname], 
+    [Student_form_TB].[Gender] AS [Gender], 
+    [Student_form_TB].[Contact_no] AS [Contact_no], 
+    [Student_form_TB].[Email] AS [Email], 
+    [Student_form_TB].[Percentage] AS [Percentage]
+    FROM [dbo].[Student_form_TB] AS [Student_form_TB]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

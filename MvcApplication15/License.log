@@ -1,0 +1,78 @@
+    ======  ======
+    Time:6/20/2018 4:34:04 PM
+    Title: Initiate log
+    Message: 
+    Time:6/20/2018 4:34:04 PM
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:6/20/2018 4:34:04 PM
+    Title: Requesting EVT
+    Message: EVTP
+    Time:6/20/2018 4:34:04 PM
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:6/20/2018 4:34:04 PM
+    Title: LICENSER
+    Message: READ REGS START
+    Time:6/20/2018 4:34:04 PM
+    Title: LIC TS_KEY
+    Message: NULL
+    Time:6/20/2018 4:34:04 PM
+    Title: LICENSER
+    Message: READ REGS SUCCESS
+    Time:6/20/2018 4:34:04 PM
+    Title: LICENSER
+    Message: TRL MODE
+    Time:6/20/2018 4:34:04 PM
+    Title: LICENSER
+    Message: DS LEFT30
+    Time:6/20/2018 4:34:04 PM
+    Title: LICENSER
+    Message: DT MARK PASSED30.00:00:00
+    Entering constructor for: Telerik.Reporting.VsPackage.VsPackage
+    Entering Initialize() of: Telerik.Reporting.VsPackage.VsPackage
+    No Telerik Reporting products found in registry
+    Entering constructor for: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Entering Initialize() of: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Entering Initialize() of: Telerik.Sitefinity.Thunder.ThunderPackage
+    Entering Telerik.Sitefinity.Thunder.Editors.CssLoadOrderEditor.CssLoadOrderEditorPane constructor
+    Entering Telerik.Sitefinity.Thunder.Editors.ResourceClassEditor.ResourceClassEditorPane constructor
+    Assembly resolution failed: Telerik.Sitefinity.Thunder.Core.XmlSerializers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+    Entering constructor for: Telerik.VSX.UserSettingsPackage.UserSettingsPackage
+    Entering Initialize() of: Telerik.VSX.UserSettingsPackage.UserSettingsPackage
+    Entering constructor for: Telerik.Web.UI.VSPackage.VSPackage
+    Entering Initialize() for: Telerik.Web.UI.VSPackage.VSPackage
+    Entering constructor for: Telerik.KendoUI.Mvc.VSPackage.VsPackage
+    Entering constructor for: Telerik.KendoUI.Mvc.VSPackage.VsPackage
+    Entering Initialize() for: Telerik.KendoUI.Mvc.VSPackage.VsPackage
+    Entering Initialize() for: Telerik.KendoUI.Mvc.VSPackage.VsPackage
+    Entering constructor for: Telerik.Windows.Silverlight.VSPackage.VsPackage
+    Entering Initialize() for: Telerik.Windows.Silverlight.VSPackage.VsPackage
+    Entering constructor for: Telerik.Windows.WPF.VSPackage.VSPackage
+    Entering Initialize() for: Telerik.Windows.WPF.VSPackage.VSPackage
+    Entering constructor for: Telerik.WinControls.VSPackage.VSPackage
+    Entering Initialize() for: Telerik.WinControls.VSPackage.VSPackage
+    Assembly resolution failed: Telerik.JustMock.AddIn.XmlSerializers, Version=2018.2.511.5, Culture=neutral, PublicKeyToken=602a9bfd8c8c4ad7
+    Assembly resolution failed: Telerik.VSX.2016.2.712.0.XmlSerializers, Version=2016.2.712.0, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Assembly resolution failed: Telerik.VSX.2016.2.712.0.XmlSerializers, Version=2016.2.712.0, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Assembly resolution failed: Telerik.VSX.2016.2.712.0.XmlSerializers, Version=2016.2.712.0, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Assembly resolution failed: Telerik.VSX.Notifications.1.2.0.0.XmlSerializers, Version=1.2.0.0, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Assembly resolution failed: Telerik.VSX.Notifications.1.2.0.0.XmlSerializers, Version=1.2.0.0, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Web Publish Package: Exiting constructor for: Microsoft.VisualStudio.Web.Publish.WebPublishPackage
+    Web Publish Package: Entering Initialize() of: Microsoft.VisualStudio.Web.Publish.WebPublishPackage
+    Web Publish Package: Exiting Initialize() of: Microsoft.VisualStudio.Web.Publish.WebPublishPackage
+    Web Publish Package: Entering constractor of WebPublishService
+    Web Publish Package: Exiting constractor of WebPublishService
+    Web Publish Package: Entering GetPublishableProjectCfg
+    Web Publish Package: Creating a new project publish data
+    Web Publish Package: Advise shell related events
+    Web Publish Package: Exiting GetPublishableProjectCfg
+    Web Publish Package: Entering ProjectOpened
+    Web Publish Package: Exiting ProjectOpened
+    Assembly resolution failed: Telerik.VSX.2018.2.514.1.XmlSerializers, Version=2018.2.514.1, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Assembly resolution failed: Telerik.KendoUI.Mvc.VSX.2018.2.514.1.XmlSerializers, Version=2018.2.514.1, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Web Publish Package: Entering ProjectClosed
+    Web Publish Package: Removing a project publish data
+    Web Publish Package: Unadvise shell related events
+    Web Publish Package: Exiting ProjectClosed
+    Entering Dispose() of: Telerik.Reporting.VsPackage.VsPackage

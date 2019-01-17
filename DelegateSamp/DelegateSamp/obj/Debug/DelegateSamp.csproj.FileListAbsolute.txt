@@ -1,0 +1,6 @@
+E:\Ankita\DelegateSamp\DelegateSamp\bin\Debug\DelegateSamp.exe.config
+E:\Ankita\DelegateSamp\DelegateSamp\obj\Debug\DelegateSamp.csprojResolveAssemblyReference.cache
+E:\Ankita\DelegateSamp\DelegateSamp\bin\Debug\DelegateSamp.exe
+E:\Ankita\DelegateSamp\DelegateSamp\bin\Debug\DelegateSamp.pdb
+E:\Ankita\DelegateSamp\DelegateSamp\obj\Debug\DelegateSamp.exe
+E:\Ankita\DelegateSamp\DelegateSamp\obj\Debug\DelegateSamp.pdb

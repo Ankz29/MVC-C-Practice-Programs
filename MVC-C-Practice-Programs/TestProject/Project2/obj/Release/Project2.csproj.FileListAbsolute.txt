@@ -1,0 +1,6 @@
+E:\Ankita\TestProject\Project2\obj\Release\Project2.csprojResolveAssemblyReference.cache
+E:\Ankita\TestProject\Project2\bin\Release\Project2.exe.config
+E:\Ankita\TestProject\Project2\bin\Release\Project2.exe
+E:\Ankita\TestProject\Project2\bin\Release\Project2.pdb
+E:\Ankita\TestProject\Project2\obj\Release\Project2.exe
+E:\Ankita\TestProject\Project2\obj\Release\Project2.pdb

@@ -1,0 +1,10 @@
+E:\Ankita\WebApplication123\WebApplication123\bin\WebApplication123.dll.config
+E:\Ankita\WebApplication123\WebApplication123\bin\WebApplication123.dll
+E:\Ankita\WebApplication123\WebApplication123\bin\WebApplication123.pdb
+E:\Ankita\WebApplication123\WebApplication123\bin\EntityFramework.dll
+E:\Ankita\WebApplication123\WebApplication123\bin\EntityFramework.SqlServer.dll
+E:\Ankita\WebApplication123\WebApplication123\bin\EntityFramework.xml
+E:\Ankita\WebApplication123\WebApplication123\bin\EntityFramework.SqlServer.xml
+E:\Ankita\WebApplication123\WebApplication123\obj\Debug\WebApplication123.csprojResolveAssemblyReference.cache
+E:\Ankita\WebApplication123\WebApplication123\obj\Debug\WebApplication123.dll
+E:\Ankita\WebApplication123\WebApplication123\obj\Debug\WebApplication123.pdb

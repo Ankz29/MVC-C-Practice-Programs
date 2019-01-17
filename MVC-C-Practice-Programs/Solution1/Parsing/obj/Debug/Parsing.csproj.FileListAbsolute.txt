@@ -1,0 +1,6 @@
+E:\Ankita\Solution1\Parsing\bin\Debug\Parsing.exe.config
+E:\Ankita\Solution1\Parsing\bin\Debug\Parsing.exe
+E:\Ankita\Solution1\Parsing\bin\Debug\Parsing.pdb
+E:\Ankita\Solution1\Parsing\obj\Debug\Parsing.exe
+E:\Ankita\Solution1\Parsing\obj\Debug\Parsing.pdb
+E:\Ankita\Solution1\Parsing\obj\Debug\Parsing.csprojResolveAssemblyReference.cache

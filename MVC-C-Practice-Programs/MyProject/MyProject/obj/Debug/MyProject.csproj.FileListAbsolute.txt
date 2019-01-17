@@ -1,0 +1,6 @@
+E:\Ankita\MyProject\MyProject\bin\Debug\MyProject.exe.config
+E:\Ankita\MyProject\MyProject\bin\Debug\MyProject.exe
+E:\Ankita\MyProject\MyProject\bin\Debug\MyProject.pdb
+E:\Ankita\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+E:\Ankita\MyProject\MyProject\obj\Debug\MyProject.exe
+E:\Ankita\MyProject\MyProject\obj\Debug\MyProject.pdb

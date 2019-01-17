@@ -1,0 +1,38 @@
+﻿@model  MvcApplication20.Models.Request1.Root
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<table border="1">
+    <tr>
+        <th> Id</th>
+        <th> Value</th>
+        <th> Abbrevation</th>
+        <th> Hidden</th>
+        <th> Links </th>
+        <th> ListnodeId</th>
+        
+    </tr>
+  
+    <tr>
+        <td> @Model.id</td>
+        <td> @Model.value</td>
+    </tr>
+   
+    @foreach(var item in Model.children)
+    {
+        <tr>
+            <td> @item.id</td>
+            <td> @item.value</td>
+            <td> @item.abv2</td>
+            <td> @item.hidden</td>
+            <td> @item._links</td>
+            
+            <td> @item.listnodeid</td>
+            
+        </tr>
+    }
+</table>

@@ -1,0 +1,6 @@
+E:\Ankita\Dictionariess\Dictionariess\bin\Debug\Dictionariess.exe.config
+E:\Ankita\Dictionariess\Dictionariess\obj\Debug\Dictionariess.csprojResolveAssemblyReference.cache
+E:\Ankita\Dictionariess\Dictionariess\bin\Debug\Dictionariess.exe
+E:\Ankita\Dictionariess\Dictionariess\bin\Debug\Dictionariess.pdb
+E:\Ankita\Dictionariess\Dictionariess\obj\Debug\Dictionariess.exe
+E:\Ankita\Dictionariess\Dictionariess\obj\Debug\Dictionariess.pdb

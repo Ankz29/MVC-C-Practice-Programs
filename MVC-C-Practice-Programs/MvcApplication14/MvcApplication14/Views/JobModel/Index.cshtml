@@ -1,0 +1,31 @@
+﻿@model List<MvcApplication14.Models.JobModel> 
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<center style="color:purple; font-size:6px">Job Information </center>
+<table border="1" style="background-color:lightblue" >
+    <tr style="font-size:6px">
+        <th><b>Job Id </b></th>
+        <th><b> Job Title </b></th>
+        <th><b> Hiring Manager </b></th>
+        <th><b> Company Address </b> </th>
+        <th><b> Country </b></th>
+        <th><b> State </b> </th>
+        <th><b> City </b></th>
+    </tr>
+    @foreach(var item in Model)
+     { 
+    <tr>
+        <td > @item.jobId </td>
+        <td > @item.jobtitle</td>
+        <td > @item.hiringManager</td>
+        <td > @item.companyAddress </td>
+        <td > @item.Country</td>
+        <td > @item.State</td>
+        <td> @item.City </td>
+    </tr>
+    }
+   
+</table>

@@ -1,0 +1,8 @@
+E:\Ankita\Ankita\Ankita\bin\Debug\Ankita.exe.config
+E:\Ankita\Ankita\Ankita\bin\Debug\Ankita.exe
+E:\Ankita\Ankita\Ankita\bin\Debug\Ankita.pdb
+E:\Ankita\Ankita\Ankita\obj\Debug\Ankita.Form1.resources
+E:\Ankita\Ankita\Ankita\obj\Debug\Ankita.Properties.Resources.resources
+E:\Ankita\Ankita\Ankita\obj\Debug\Ankita.csproj.GenerateResource.Cache
+E:\Ankita\Ankita\Ankita\obj\Debug\Ankita.exe
+E:\Ankita\Ankita\Ankita\obj\Debug\Ankita.pdb

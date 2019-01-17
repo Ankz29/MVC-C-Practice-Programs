@@ -1,0 +1,6 @@
+E:\Ankita\LambdaExp\LambdaExp\bin\Debug\LambdaExp.exe.config
+E:\Ankita\LambdaExp\LambdaExp\bin\Debug\LambdaExp.exe
+E:\Ankita\LambdaExp\LambdaExp\bin\Debug\LambdaExp.pdb
+E:\Ankita\LambdaExp\LambdaExp\obj\Debug\LambdaExp.csprojResolveAssemblyReference.cache
+E:\Ankita\LambdaExp\LambdaExp\obj\Debug\LambdaExp.exe
+E:\Ankita\LambdaExp\LambdaExp\obj\Debug\LambdaExp.pdb
